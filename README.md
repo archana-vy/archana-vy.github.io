@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning blockchain and nestjs
+🌱 I’m currently learning blockchain and backend with Rust
 
 <!--
 **ArchanaVaideeswaran/ArchanaVaideeswaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
